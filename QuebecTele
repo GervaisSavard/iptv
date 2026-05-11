@@ -1,0 +1,135 @@
+#EXTM3U
+
+# --- RELIGIEUX ---
+#EXTINF:-1 tvg-id="3ABN" group-title="Religieux",3ABN Canada (720p)
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="EWTN" group-title="Religieux",EWTN Canada (720p)
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religieux",Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+# --- NOUVELLES ---
+#EXTINF:-1 tvg-id="RDI.ca" group-title="Nouvelles",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="CBC.News" group-title="Nouvelles",CBC News (1080p)
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" group-title="Nouvelles",CPAC (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 group-title="Nouvelles",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 group-title="Nouvelles",CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 group-title="Nouvelles",CityNews Calgary (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 group-title="Nouvelles",CityNews Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+#EXTINF:-1 group-title="Nouvelles",CityNews Vancouver (720p)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+
+# --- LOCALES (RADIO-CANADA) ---
+#EXTINF:-1 tvg-id="SRC.Montreal" group-title="Locales",Ici Radio-Canada Télé (1080p)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Alberta (CBXFT-DT)
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Est du Québec (CJBR-DT)
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Estrie (CKSH-DT)
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Manitoba (CBWFT-DT)
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Ontario (CBLFT-DT)
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT)
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Québec (CBVT-DT)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT)
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT)
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+#EXTINF:-1 group-title="Locales",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT)
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+
+# --- LOCALES (CBC) ---
+#EXTINF:-1 tvg-id="CBC.Montreal" group-title="Locales",CBC Montréal (CBMT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Calgary (CBRT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Edmonton (CBXT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Manitoba (CBWT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC New Brunswick (CBAT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Newfoundland and Labrador (CBNT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC North (CFYK-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Nova Scotia (CBHT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Ottawa (CBOT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Prince Edward Island (CBCT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Saskatchewan (CBKT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Toronto (CBLT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Vancouver (CBUT-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 group-title="Locales",CBC Windsor (CBET-DT) (720p)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+
+# --- AUTRES LOCALES ---
+#EXTINF:-1 tvg-id="ICI.Montreal" group-title="Locales",ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 group-title="Locales",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 group-title="Locales",CHCO-TV (720p)
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 group-title="Locales",Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+
+# --- SPORTS ---
+#EXTINF:-1 group-title="Sports",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Sports",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Golf Channel (1080p)
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 group-title="Sports",Hard Knocks (1080p)
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+
+# --- DIVERTISSEMENT & MUSIQUE ---
+#EXTINF:-1 group-title="Divertissement",A&E East (720p)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 group-title="Divertissement",48 Hours
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+#EXTINF:-1 group-title="Divertissement",Animation+ (1080p)
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 group-title="Musique",iTV Afrobeats Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musique",iTV Indian Music
+https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
+
+# --- INTERNATIONAL & AUTRES ---
+#EXTINF:-1 group-title="International",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 group-title="International",5AAB TV (720p)
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="International",Afghan Nobel TV (720p)
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1 group-title="International",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 group-title="International",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
